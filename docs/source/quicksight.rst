@@ -122,3 +122,33 @@ cost, status, component-level performance, and monthly trends.
 
 It allows users to explore the processed warranty data through
 interactive business intelligence visualizations.
+
+Dashboard Screenshots
+=====================
+
+The following screenshots show the BMW Warranty Claims Analytics
+dashboard developed using Amazon QuickSight.
+
+Dashboard Overview
+------------------
+
+.. image:: _static/quicksight_dashboard1.png
+   :alt: BMW Warranty Claims Analytics Dashboard - Overview
+   :align: center
+   :width: 100%
+
+Dashboard Analytics
+-------------------
+
+.. image:: _static/quicksight_dashboard2.png
+   :alt: BMW Warranty Claims Analytics Dashboard - Analytics
+   :align: center
+   :width: 100%
+
+Additional Dashboard Visuals
+----------------------------
+
+.. image:: _static/quicksight_dashboard3.png
+   :alt: BMW Warranty Claims Analytics Dashboard - Additional Visuals
+   :align: center
+   :width: 100%
